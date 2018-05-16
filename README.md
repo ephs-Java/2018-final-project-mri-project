@@ -1,5 +1,7 @@
-# final-project-mri-project
+# MRI-Project
 2018 Final Team Project
+
+Miguel Flores, Ritik Mishra, Isaac AJ
 
 This is a collection of proof-of-concept code and a place for testing out control systems.
 
