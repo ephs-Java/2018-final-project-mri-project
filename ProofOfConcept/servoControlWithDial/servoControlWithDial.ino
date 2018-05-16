@@ -12,7 +12,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   val = analogRead(potentiometerPin);
-  val = map(val, 0, 1023, 0, 180);
+  val = map(val, 0, 1023, 5, 160);
   servo.write(val);
   delay(10);
 }
